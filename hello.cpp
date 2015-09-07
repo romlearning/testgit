@@ -1,5 +1,9 @@
 #include <iostream>
 
+void anotherfunc() {
+	std::cout << "anotherfunc()" << std::endl;
+}
+
 void somefunc() {
 	std::cout << "somefunc()" << std::endl;
 }
