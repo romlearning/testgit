@@ -1,5 +1,7 @@
 #include <iostream>
 
+// some comment
+
 void fourthfunc() {
 	std::cout << "the fourthfunc() !" << std::endl;
 }
