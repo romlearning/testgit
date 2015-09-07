@@ -1,6 +1,7 @@
 #include <iostream>
 
 #include "secfile.hpp" 
+#include "thirdfile.hpp" 
 
 // some comment
 

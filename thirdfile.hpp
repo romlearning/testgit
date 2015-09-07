@@ -1,5 +1,5 @@
-#ifndef SECFILE
-#define SECFILE
+#ifndef THIRDFILE
+#define THIRDFILE
 
 void athirdfilefunc();
 
