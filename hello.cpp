@@ -1,5 +1,7 @@
 #include <iostream>
 
+#include "secfile.hpp" 
+
 // some comment
 
 void fourthfunc() {
@@ -28,6 +30,7 @@ int main() {
 	somefunc();
 	anotherfunc();
 	thirdfunc();
+	asecondfilefunc();
 
 	return 0;
 
