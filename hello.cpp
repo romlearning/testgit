@@ -31,6 +31,8 @@ int main() {
 	anotherfunc();
 	thirdfunc();
 	asecondfilefunc();
+	
+	std::cout << "Finally finished!" << std::endl;	
 
 	return 0;
 
