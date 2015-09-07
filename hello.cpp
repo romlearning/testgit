@@ -1,5 +1,9 @@
 #include <iostream>
 
+void fourthfunc() {
+	std::cout << "the fourthfunc() !" << std::endl;
+}
+
 void thirdfunc() {
 	std::cout << "the third function" << std::endl;
 }
