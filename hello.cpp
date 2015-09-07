@@ -18,6 +18,10 @@ void somefunc() {
 	std::cout << "somefunc()" << std::endl;
 }
 
+void yetanother() {
+	std::cout << "yet!!!" << std::endl;
+}
+
 int main() {
 	std::cout << "Hello!" << std::endl;
 
