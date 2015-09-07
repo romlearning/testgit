@@ -1,5 +1,7 @@
 #include <iostream>
 
+#include "secfile.hpp" 
+
 void fourthfunc() {
 	std::cout << "the fourthfunc() !" << std::endl;
 }
@@ -22,6 +24,7 @@ int main() {
 	somefunc();
 	anotherfunc();
 	thirdfunc();
+	asecondfilefunc();
 
 	return 0;
 
